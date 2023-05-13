@@ -1,0 +1,11 @@
+h1{
+    border-top: 10px solid tomato;
+    border-bottom: 20px double green;
+    border-left: 150px dotted purple;
+    border-right: 20px dotted greenyellow;
+    padding: 50px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 200px;
+    margin-bottom: 300px;
+}

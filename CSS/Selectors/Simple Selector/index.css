@@ -1,0 +1,15 @@
+#kaliya{
+    color: aquamarine;
+}
+.p1{
+    font-size: 30px;
+}
+p{
+    text-align: center;
+}
+#kaliya,.p1,p{
+    font-size: 60px;
+}
+*{
+    font-family: cambria;
+}

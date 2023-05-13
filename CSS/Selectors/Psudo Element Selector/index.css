@@ -1,0 +1,24 @@
+p::first-line
+{
+    background-color: azure;
+}
+P::first-letter
+{
+    font-size: 40px;
+}
+p::after{
+    content: url("https://em-content.zobj.net/source/skype/289/lion_1f981.png");
+}
+p::before
+{
+    content: url("https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif");
+}
+p::selection
+{
+    background-color: yellow;
+    color: black;
+}
+li::marker
+{
+    color: dodgerblue;
+}

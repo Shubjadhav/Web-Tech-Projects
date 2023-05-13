@@ -1,0 +1,50 @@
+.sec1{
+    height: 30vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+
+}
+
+.sec2{
+    height: 30vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+
+}
+
+#div1{
+    height: 70px;
+    width: 500px;
+    background-color: blue;
+}
+#div2{
+    height: 70px;
+    width: 500px;
+    background-color:tomato;
+}
+#div3{
+    height: 70px;
+    width: 500px;
+    background-color: aqua;
+}
+
+#div4{
+    height: 70px;
+    width: 500px;
+    background-color: aquamarine;
+}
+#div5{
+    height: 70px;
+    width: 500px;
+    background-color: blueviolet;
+}
+#div6{
+    height: 70px;
+    width: 500px;
+    background-color: chartreuse;
+}

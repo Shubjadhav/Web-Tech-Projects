@@ -1,0 +1,17 @@
+div{
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+}
+
+/* div:hover{
+    transform: rotate(50deg);
+} */
+
+/* div:hover{
+    transform: scale(0.5);
+} */
+
+div:hover{
+    transform:skew(30deg);
+}

@@ -1,0 +1,17 @@
+div p
+{
+    color: dodgerblue;
+    font-size: 40px;
+    font-family: Cambria;
+}
+div>p
+{
+background-color: black;
+}
+div+p{
+    font-size: 30px;
+}
+div~p{
+    font-size: 40px;
+    font-family: cambria;
+}
